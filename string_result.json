@@ -1,0 +1,41 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":3,
+    "params":{
+      "fl":"id, title",
+      "indent":"true",
+      "q":"*:*",
+      "wt":"json"}},
+  "response":{"numFound":254,"start":0,"docs":[
+      {
+        "title":["Microsoft Word - N0747259.doc"],
+        "id":"file:/home/jorge/sample-document-set/N0747259.pdf"},
+      {
+        "title":["UNITED"],
+        "id":"file:/home/jorge/sample-document-set/N0746797.pdf"},
+      {
+        "title":["UNITED"],
+        "id":"file:/home/jorge/sample-document-set/N0746827.pdf"},
+      {
+        "title":["Microsoft Word - N0746383.doc"],
+        "id":"file:/home/jorge/sample-document-set/N0746383.pdf"},
+      {
+        "title":["Microsoft Word - N0747301.doc"],
+        "id":"file:/home/jorge/sample-document-set/N0747301.pdf"},
+      {
+        "title":["UNITED"],
+        "id":"file:/home/jorge/sample-document-set/N0747523.pdf"},
+      {
+        "title":["Microsoft Word - N0746803.doc"],
+        "id":"file:/home/jorge/sample-document-set/N0746803.pdf"},
+      {
+        "title":["Microsoft Word - N0747793.doc"],
+        "id":"file:/home/jorge/sample-document-set/N0747793.pdf"},
+      {
+        "title":["Microsoft Word - N0747829.doc"],
+        "id":"file:/home/jorge/sample-document-set/N0747829.pdf"},
+      {
+        "title":["Microsoft Word - N0746575.doc"],
+        "id":"file:/home/jorge/sample-document-set/N0746575.pdf"}]
+  }}
