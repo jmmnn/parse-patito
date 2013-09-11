@@ -10,12 +10,12 @@ import pandas as pd
 # string_result = query_result.read()
 #print string_result
 
-db = json.load(open('string_result.json'))
+db = json.load(open('full_string_result.json'))
 # print len(db)
-# print db['response']['docs']
+print db['response']['docs']
 
-frame = DataFrame(db)
-print frame
+# frame = DataFrame(db)
+# print frame
 
 # documents = DataFrame(db['response']['docs'])
 # print documents
