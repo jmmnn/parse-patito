@@ -1,0 +1,4 @@
+\w*\/\w*/\w*\/\w*   also \w+\/\w+/\w+\/\w+
+matches:  
+A/RES/6/147
+A/62/439/Add
